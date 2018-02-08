@@ -53,7 +53,7 @@ html, body {
 
 body {
   padding: 0;
-  background-color: #5d9bc7;
+  background-color: #9047d8;
 }
 
 section {
@@ -105,11 +105,12 @@ input[type="email"] {
   width: 5.6rem;
   height: 5.6rem;
   padding: 0;
-  background-color: transparent;
+  background-color: #aef2b4;
   border: none;
+  border-radius: 2.8rem;
   background-size: cover;
   background-repeat: no-repeat;
-  opacity: 0.8;
+  opacity: 1.0;
   -moz-user-select: none;
   -webkit-user-select: none;
   -ms-user-select: none;
